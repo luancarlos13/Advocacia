@@ -8,35 +8,35 @@ O layout foi cuidadosamente planejado para guiar o usuário de forma simples, di
 
 ## 🎯 OBJETIVO
 
-✔️ Captar potenciais clientes
-✔️ Apresentar serviços jurídicos de forma clara
-✔️ Gerar confiança e autoridade
-✔️ Facilitar o contato rápido com o profissional
+- ✔️ Captar potenciais clientes
+- ✔️ Apresentar serviços jurídicos de forma clara
+- ✔️ Gerar confiança e autoridade
+- ✔️ Facilitar o contato rápido com o profissional
 
 ## 🧩 FUNCIONALIDADES
 
-✨ Design moderno e responsivo
-📱 Adaptado para dispositivos móveis
-⚡ Navegação simples e objetiva
-📞 Call-to-action estratégico (botões de contato)
-📋 Seções organizadas (serviços, apresentação, contato)
+- ✨ Design moderno e responsivo
+- 📱 Adaptado para dispositivos móveis
+- ⚡ Navegação simples e objetiva
+- 📞 Call-to-action estratégico (botões de contato)
+- 📋 Seções organizadas (serviços, apresentação, contato)
 
 ## 🎨 LAYOUT E EXPERIÊNCIA
 
 O projeto segue o padrão de landing pages de alta conversão:
 
-✔️ Foco total no conteúdo principal
-✔️ Pouca distração (sem excesso de menus)
-✔️ Estrutura pensada para conversão
-✔️ Comunicação direta com o usuário
+- ✔️ Foco total no conteúdo principal
+- ✔️ Pouca distração (sem excesso de menus)
+- ✔️ Estrutura pensada para conversão
+- ✔️ Comunicação direta com o usuário
 
 💡 Esse tipo de página é ideal para campanhas e negócios que precisam gerar resultados rápidos e eficientes.
 
 ## 🛠️ TECNOLOGIAS UTILIZADAS
 
-HTML5 🟧
-CSS3 🟦
-JavaScript 🟨
+- HTML5 🟧
+- CSS3 🟦
+- JavaScript 🟨
 
 ## 🚀 RESULTADO
 
@@ -46,9 +46,9 @@ Uma página leve, rápida e eficiente, ideal para profissionais do Direito que d
 
 Este projeto demonstra habilidades em:
 
-💻 Desenvolvimento Front-End
-🎯 Estruturação de páginas de conversão
-🎨 Design focado em experiência do usuário (UX/UI)
+- 💻 Desenvolvimento Front-End
+- 🎯 Estruturação de páginas de conversão
+- 🎨 Design focado em experiência do usuário (UX/UI)
 
 ## 🤝 CONTRIBUIÇÃO
 
@@ -57,7 +57,6 @@ Sinta-se à vontade para sugerir melhorias ou utilizar como base para novos proj
 
 ## 📷 PREVIEW
 
-🔗 Repositório no GitHub:
+Repositório no GitHub:
 
-
-🌐 Deploy do Projeto:
+Deploy do Projeto:
