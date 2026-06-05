@@ -57,6 +57,6 @@ Sinta-se à vontade para sugerir melhorias ou utilizar como base para novos proj
 
 ## 📷 PREVIEW
 
-Repositório no GitHub:
+Repositório no GitHub: https://github.com/luancarlos13/Advocacia
 
-Deploy do Projeto:
+Deploy do Projeto: https://luancarlos13.github.io/Advocacia/
